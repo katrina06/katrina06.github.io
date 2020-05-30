@@ -6,6 +6,8 @@ Things i like:
  - dogs
  - tiktok
  - my family
+ - netflix
+ 
 
 You can use the [editor on GitHub](https://github.com/katrina06/katrina06.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
