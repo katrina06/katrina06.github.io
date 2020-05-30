@@ -1,14 +1,32 @@
-## Welcome to my site
+## welcome to my site
 
-my name is katrina
+my name is ...
 
-Things i like:
- - dogs
- - tiktok
- - my family
- - netflix
- 
-[about page](about)
+
+
+
+
+katrina
+
+
+super cool right
+
+## CORONA SUCKS
+
+so i bet everyone is pretty much over this global pandemic, i sure am.
+but everyones probaly super bored aswell. 
+what is everyone doing with all this spare time? 
+
+#NETFLIX
+i can guarantee that most are bingewatching netflix
+
+because
+
+soooooooo....
+
+im going to give you my top five netflix recommendations
+
+
 
 You can use the [editor on GitHub](https://github.com/katrina06/katrina06.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
