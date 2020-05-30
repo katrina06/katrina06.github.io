@@ -1,30 +1,25 @@
 ## welcome to my site
 
-my name is ...
+my name is katrina
 
-
-
-
-
-katrina
-
-
-super cool right
+super cool right.
 
 ## CORONA SUCKS
 
 so i bet everyone is pretty much over this global pandemic, i sure am.
 but everyones probaly super bored aswell. 
+
+
 what is everyone doing with all this spare time? 
 
-#NETFLIX
+## NETFLIX
 i can guarantee that most are bingewatching netflix
 
 because
 
 soooooooo....
 
-im going to give you my top five netflix recommendations
+im going to give you **my** top five netflix recommendations!
 
 
 
