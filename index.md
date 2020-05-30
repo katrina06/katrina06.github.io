@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to my site
+
+my name is katrina
+
+Things i like:
+ - dogs
+ - tiktok
+ - my family
 
 You can use the [editor on GitHub](https://github.com/katrina06/katrina06.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
